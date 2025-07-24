@@ -118,3 +118,169 @@ main {
 .m-g {
   margin-bottom: 30px;
 }
+.img-factor2 {
+  height: 286px;
+  width: 286px;
+  margin-left: -190px;
+  margin-top: -130px;
+}
+.img-factor1 {
+  height: 597px;
+  width: 540px;
+}
+.important-2 {
+  height: 597px;
+  width: 1140px;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 120px;
+}
+.text-5 {
+  font-weight: bold;
+  font-size: 50px;
+  height: 137px;
+  width: 540px;
+}
+.list-items1 {
+  font-size: 22px;
+  height: 108px;
+  width: 540px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.text-dc {
+  gap: 20px;
+}
+.title-format {
+  font-weight: bold;
+  font-size: 50px;
+  margin: 10px auto;
+}
+.description1 {
+  font-size: 22px;
+  color: rgba(0, 0, 0, 0.5);
+  height: 54px;
+  width: 888px;
+  margin: 0 auto;
+}
+.title-1 {
+  text-align: center;
+  margin-bottom: 80px;
+}
+.bg-img1 {
+  background-image: url(../assets/deal-bloom.png);
+  background-repeat: no-repeat;
+  height: 201px;
+  width: 367px;
+  border-radius: 14px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 15px;
+}
+.bg-img2 {
+  background-image: url(../assets/deal-ana.png);
+  background-repeat: no-repeat;
+  height: 197px;
+  width: 367px;
+  border-radius: 14px;
+  color: #ffffff;
+  text-align: center;
+}
+.bg-img3 {
+  background-image: url(../assets/deal-zabo.png);
+  background-repeat: no-repeat;
+  height: 423.13px;
+  width: 753px;
+  color: #ffffff;
+  border-radius: 22px;
+  text-align: center;
+  margin-top: 10px;
+}
+.text-6,
+.text-7 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.text-8 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.italy {
+  font-weight: 600;
+  font-size: 16px;
+}
+.img-title {
+  margin: 0 auto;
+  justify-content: center;
+  gap: 28px;
+}
+.padding {
+  padding: 65px 47.22px 0px 49px;
+}
+.italy1 {
+  font-weight: 600;
+  font-size: 28px;
+}
+.bg-img4 {
+  margin-bottom: 200px;
+}
+.bg-last {
+  background-image: url(../assets/news-letter-bg.png);
+  height: 533px;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.text1 {
+  font-weight: bold;
+  font-size: 50px;
+  color: #ffffff;
+  padding: 199px 305px 0px 305px;
+}
+.btn-primary2 {
+  color: #ffffff;
+  background-color: rgba(233, 90, 8, 1);
+  height: 50px;
+  width: 186px;
+  font-weight: 600;
+  font-size: 16px;
+  border: none;
+}
+.ewi {
+  height: 50px;
+  width: 644px;
+}
+footer {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.logo1 {
+  margin-right: 10px;
+  height: 36px;
+  width: 216px;
+  justify-content: space-between;
+  margin: 0px 160px 0px 0px;
+}
+.finising1 {
+  justify-content: center;
+  justify-content: space-between;
+  margin-bottom: 80px;
+}
+.list-finish {
+  list-style: none;
+  text-decoration: none;
+}
+.foot1 {
+  color: gray;
+  margin-bottom: 32px;
+}
+.sponsor {
+  width: 359px;
+  height: 179px;
+  margin: 0px 0px 0px 160px;
+}
+.sp1 {
+  color: rgba(0, 0, 0, 0.5);
+}
