@@ -313,3 +313,13 @@ footer {
     flex-direction: column;
   }
 }
+.acolor {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 16px;
+}
+.acolor1 {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 25px;
+}
